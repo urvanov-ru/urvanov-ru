@@ -1,5 +1,5 @@
 
-Senior Java Developer
+Java Developer
 =====================
 - 💻 I am developing [Urvanov Syntax Highlighter](https://wordpress.org/plugins/urvanov-syntax-highlighter/) plugin for WordPress.
 - 💻 I am writing [personal blog](https://urvanov.ru).
