@@ -23,6 +23,7 @@ Used: Java, Spring Boot, Reactive Programming, Spring Data, Hibernate, PostgreSQ
 
 
 **Cloud file store for corporate clients**
+
 It was some kind of Yandex.Drive or Google Drive for corporate clients with integration with Active Directory and with IRM.
 Fixed bugs in forked version https://lsc-project.org, added new features. Lsc Project was used for synchronization with Active Directory. Added fs-ws-client library from Seclore to our project for IRM (Information_rights_management)
 Used: Gradle, Maven, Java, Spring Framework, JIRA, Confluence, GitHub, Jenkins, Slf4j, Logback, commons-cli, commons-lang, Java Cryptography Architecture, Bouncy Castle cryptographic library, JAXB, jxc, LDAP, Apache Directory Studio.
@@ -30,6 +31,7 @@ All communications were in English.
 
 
 **Dictionary service for insurance project**
+
 Our module was base part of core services. Clients used REST methods to edit dictionary fields. The module generated Java classed with Dto, Hibernate Entities and tables. That generated modules loaded during startup process. Other services used REST API to fetch dictionary data.
 Used: Java 8, Spring Framework, Hibernate, JUnit, Slf4j, Logback, jsonschema2pojo, Lombok, ﻿junit-dataprovider, Java Reflection API, Maven Jenkins, Confluence.
 
