@@ -24,7 +24,7 @@ Used: Java, Spring Boot, Reactive Programming, Spring Data, Hibernate, PostgreSQ
 2) Message send platform for different channels ( SMS, Viber, WhatsApp, VK, MailRU Notifier, Telegram) in one interface. Used: Java 11, BerkeleyDB, SOAP, HTTPClient, Oracle Database, Maven, JSP, JSTL, JUnit, Mockito, PowerMock, Jetty. Multithread programming. API for different messengers. Fixed a lot of bugs. Wrote different message type adapters for different messengers. Refactored project from Java 8 to Java 11.
 
 
-**Cloud file store for corporate clients**
+**Cloud file storage for corporate clients**
 
 It was some kind of Yandex.Drive or Google Drive for corporate clients with integration with Active Directory and with IRM.
 Fixed bugs in forked version https://lsc-project.org, added new features. Lsc Project was used for synchronization with Active Directory. Added fs-ws-client library from Seclore to our project for IRM (Information_rights_management)
