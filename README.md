@@ -19,7 +19,7 @@ Experience
 Used: Java, Spring Boot, Reactive Programming, Spring Data, Hibernate, PostgreSQL, JUnit, Mockito, Liquibase,  Slf4j, Lombok., JIRA, Confluence, Gitlab.
 
 
-**United notification system for different messangers.**
+**United notification system for different messengers.**
 1) Gate for Aeroflot messages. Used: Java 8, Spring Framework, SOAP, Apache CXF, JSP, JSTL, Oracle Database, JDBC, Maven, Jetty. Multithread programming. Fixed multithreading bugs.
 2) Message send platform for different channels ( SMS, Viber, WhatsApp, VK, MailRU Notifier, Telegram) in one interface. Used: Java 11, BerkeleyDB, SOAP, HTTPClient, Oracle Database, Maven, JSP, JSTL, JUnit, Mockito, PowerMock, Jetty. Multithread programming. API for different messengers. Fixed a lot of bugs. Wrote different message type adapters for different messengers. Refactored project from Java 8 to Java 11.
 
