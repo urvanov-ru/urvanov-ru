@@ -34,7 +34,7 @@ All communications were in English.
 
 **Dictionary service for insurance project**
 
-Our module was base part of core services. Clients used REST methods to edit dictionary fields. The module generated Java classed with Dto, Hibernate Entities and tables. That generated modules loaded during startup process. Other services used REST API to fetch dictionary data.
+Our module was base part of core services. Clients used REST methods to edit dictionary fields. The module generated Java classes with Dto, Hibernate Entities and tables. The generated modules were loaded during startup process. Other services used REST API to fetch dictionary data.
 Used: Java 8, Spring Framework, Hibernate, JUnit, Slf4j, Logback, jsonschema2pojo, Lombok, ﻿junit-dataprovider, Java Reflection API, Maven Jenkins, Confluence.
 
 .... and other places ....
