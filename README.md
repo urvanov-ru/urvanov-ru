@@ -16,7 +16,7 @@ Experience
 
 **Omnichannel bank platform.**
 
-Used: Java, Spring Boot, Spring Web Flux, Reactive Programming, Spring Data, Hibernate, PostgreSQL, JUnit, Mockito, Liquibase,  Slf4j, Lombok., JIRA, Confluence, Gitlab.
+Used: Java, Spring Framework, Spring Boot, Spring Web Flux, Reactive Programming, Spring Data, Hibernate, PostgreSQL, JUnit, Mockito, Liquibase,  Slf4j, Lombok., JIRA, Confluence, Gitlab.
 
 
 **Unified notification system for different messengers.**
