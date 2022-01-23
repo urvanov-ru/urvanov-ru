@@ -3,12 +3,12 @@ e-mail for jobs: workgithub2021@urvanov.ru
 
 Java Developer
 =====================
-- 💻 I am developing [Urvanov Syntax Highlighter](https://wordpress.org/plugins/urvanov-syntax-highlighter/) plugin for WordPress.
-- 💻 I am writing [personal blog](https://urvanov.ru).
-- 💻 I am writing code for ₽₽₽₽₽₽₽ or $$$$$$$ or €€€€€€€.
-- 💻 I am not coding on 🐍.
-- 💻 I am coding on Java ☕.
-- 💻 I am programming in the name of the 🌙.
+- 💻 I develop [Urvanov Syntax Highlighter](https://wordpress.org/plugins/urvanov-syntax-highlighter/) plugin for WordPress.
+- 💻 I write [personal blog](https://urvanov.ru).
+- 💻 I write code for ₽₽₽₽₽₽₽ or $$$$$$$ or €€€€€€€.
+- 💻 I don't code on 🐍.
+- 💻 I code on Java ☕.
+- 💻 I program in the name of the 🌙.
 - 💻 I have passed [Oracle Certification Program for Java SE 7 Developers](https://urvanov.ru/wp-content/uploads/2016/07/javaprofessionalcertificate.png) .
 
 Experience
