@@ -1,6 +1,9 @@
 
 e-mail for jobs: workgithub2021@urvanov.ru
 
+_(Actually, I am really bad as a Software Developer. Trust me, I am not an employee you are looking for...)_
+
+
 Java Developer
 =====================
 - 💻 I develop [Urvanov Syntax Highlighter](https://wordpress.org/plugins/urvanov-syntax-highlighter/) plugin for WordPress.
