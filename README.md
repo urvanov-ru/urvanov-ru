@@ -1,6 +1,3 @@
-
-e-mail for jobs: workgithub2021@urvanov.ru
-
 _(Actually, I am really bad as a Software Developer. Trust me, I am not an employee you are looking for...)_
 
 
